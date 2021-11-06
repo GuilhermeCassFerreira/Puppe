@@ -1,2 +1,3 @@
 class sddsdpa():
-    ssssssx
+    pass
+print('jnindini')
